@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "data-base-termometro": {
+      "hosting": {
+        "app": [
+          "data-base-termometro"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "data-base-termometro"
+  }
+}
